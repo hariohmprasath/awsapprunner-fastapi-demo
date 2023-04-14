@@ -1,0 +1,9 @@
+pytesseract
+PyPDF2
+python-docx
+fastapi
+uvicorn
+httpx
+pytest-asyncio
+python-multipart
+reportlab
